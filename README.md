@@ -1,4 +1,4 @@
-# GreenzoneTechDemo
+# GreenzoneTechDemo2
 
 ### Intro
 This Tech demo is designed to get a rough understanding of where your understanding is at, in regards to a basic VueJS 2 project.
